@@ -1,4 +1,4 @@
-package cycles;
+package for_break_continue;
 
 /*Min и Max
 

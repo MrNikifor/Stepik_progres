@@ -1,4 +1,4 @@
-package cycles;
+package for_break_continue;
 
 import java.util.Scanner;
 /*Пользователь вводит слова до тех пор, пока не введёт "СТОП".
