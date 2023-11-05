@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc19114c-7a3d-42c9-8e84-208056f3f100" name="Changes" comment="Merge remote-tracking branch 'github/master'">
+      <change afterPath="$PROJECT_DIR$/src/cycles/SumOfNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cycles/SunOfSquares.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2OIIy7iP0Stf4lRtlHsZgLb4QG5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ProjectJava/Stepik_progres&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/ProjectJava/Stepik_progres/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ProjectJava\Stepik_progres\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SunOfSquares">
+    <configuration name="NumberOfMaximumElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_break_continue.NumberOfMaximumElements" />
+      <module name="Stepik_progres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="for_break_continue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cycles.SumOfNaturalNumbers" />
+      <module name="Stepik_progres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SunOfSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cycles.SunOfSquares" />
+      <module name="Stepik_progres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordParasite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_break_continue.WordParasite" />
+      <module name="Stepik_progres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="for_break_continue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordTenTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cycles.WordTenTimes" />
+      <module name="Stepik_progres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SunOfSquares" />
+        <item itemvalue="Application.SumOfNaturalNumbers" />
+        <item itemvalue="Application.WordTenTimes" />
+        <item itemvalue="Application.NumberOfMaximumElements" />
+        <item itemvalue="Application.WordParasite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc19114c-7a3d-42c9-8e84-208056f3f100" name="Changes" comment="" />
+      <created>1681241922384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681241922384</updated>
+      <workItem from="1699111994388" duration="1088000" />
+      <workItem from="1699114121215" duration="103000" />
+      <workItem from="1699115198520" duration="4475000" />
+      <workItem from="1699224650829" duration="2982000" />
+    </task>
+    <task id="LOCAL-00001" summary="For">
+      <created>1681861594077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681861594077</updated>
+    </task>
+    <task id="LOCAL-00002" summary="For">
+      <created>1682203899493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682203899493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="For">
+      <created>1682203981082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682203981082</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'github/master'">
+      <created>1683835490578</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683835490578</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'github/master'">
+      <created>1683835495734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683835495734</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'github/master'">
+      <created>1683835509747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683835509747</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'github/master'">
+      <created>1683835518085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683835518085</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'github/master'">
+      <created>1683835528381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683835528381</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1699133305995</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699133305995</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="For" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
+  </component>
+</project>
