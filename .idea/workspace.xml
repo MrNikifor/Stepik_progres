@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc19114c-7a3d-42c9-8e84-208056f3f100" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/src/cycles/SumOfNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycles/SunOfSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cycles/Dollars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_11_2023_18_33_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycles/SumOfNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cycles/SumOfNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycles/SunOfSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cycles/SumOfSquares.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MrNikifor"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="35ce5350-8304-4818-9898-33103aae9a3f" />
+        <option name="url" value="https://github.com/MrNikifor/Stepik_progres.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -60,7 +77,20 @@
       <recent name="C:\ProjectJava\Stepik_progres\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SunOfSquares">
+  <component name="RunManager" selected="Application.Dollars">
+    <configuration name="Dollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cycles.Dollars" />
+      <module name="Stepik_progres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberOfMaximumElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="for_break_continue.NumberOfMaximumElements" />
       <module name="Stepik_progres" />
@@ -87,25 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SunOfSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycles.SunOfSquares" />
+    <configuration name="SumOfSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cycles.SumOfSquares" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cycles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordParasite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="for_break_continue.WordParasite" />
-      <module name="Stepik_progres" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="for_break_continue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SunOfSquares" />
+        <item itemvalue="Application.Dollars" />
+        <item itemvalue="Application.SumOfSquares" />
         <item itemvalue="Application.SumOfNaturalNumbers" />
         <item itemvalue="Application.WordTenTimes" />
         <item itemvalue="Application.NumberOfMaximumElements" />
-        <item itemvalue="Application.WordParasite" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +164,8 @@
       <workItem from="1699111994388" duration="1088000" />
       <workItem from="1699114121215" duration="103000" />
       <workItem from="1699115198520" duration="4475000" />
-      <workItem from="1699224650829" duration="2982000" />
+      <workItem from="1699224650829" duration="3233000" />
+      <workItem from="1699622737781" duration="2406000" />
     </task>
     <task id="LOCAL-00001" summary="For">
       <created>1681861594077</created>
@@ -213,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699133305995</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1699227909708</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699227909708</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
