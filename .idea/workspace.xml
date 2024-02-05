@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc19114c-7a3d-42c9-8e84-208056f3f100" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/src/cycles/Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycles/Composition2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycles/NotEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycles/OutputNumbersDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycles/OutputNumbersDownPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ChangingNeighbors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Cubes2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/EnteringNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/IndexEqualElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/IndexEqualElementIn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/SumIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/SumIndexAndError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/UniqueElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +68,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/ProjectJava/Stepik_progres&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ProjectJava/JavaJunior&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/ProjectJava/Stepik_progres/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -78,13 +84,13 @@
       <recent name="C:\ProjectJava\Stepik_progres\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OutputNumbersDownPro">
-    <configuration name="Composition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycles.Composition" />
+  <component name="RunManager" selected="Application.SumIndex">
+    <configuration name="Cubes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Cubes2" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cycles.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Composition2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycles.Composition2" />
+    <configuration name="EnteringNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.EnteringNumber" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cycles.*" />
+          <option name="PATTERN" value="arrays.SimpleTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycles.Dollars" />
+    <configuration name="IndexEqualElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.IndexEqualElement" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cycles.*" />
+          <option name="PATTERN" value="arrays.SimpleTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputNumbersDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycles.OutputNumbersDown" />
+    <configuration name="IndexEqualElementIn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.IndexEqualElementIn2" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cycles.*" />
+          <option name="PATTERN" value="arrays.SimpleTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputNumbersDownPro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycles.OutputNumbersDownPro" />
+    <configuration name="SumIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.SumIndex" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cycles.*" />
+          <option name="PATTERN" value="arrays.SimpleTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OutputNumbersDownPro" />
-        <item itemvalue="Application.OutputNumbersDown" />
-        <item itemvalue="Application.Composition2" />
-        <item itemvalue="Application.Composition" />
-        <item itemvalue="Application.Dollars" />
+        <item itemvalue="Application.SumIndex" />
+        <item itemvalue="Application.EnteringNumber" />
+        <item itemvalue="Application.IndexEqualElementIn2" />
+        <item itemvalue="Application.IndexEqualElement" />
+        <item itemvalue="Application.Cubes2" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +175,31 @@
       <workItem from="1699622737781" duration="2406000" />
       <workItem from="1699743016049" duration="891000" />
       <workItem from="1704876619075" duration="6791000" />
-      <workItem from="1704925309061" duration="990000" />
+      <workItem from="1704925309061" duration="1318000" />
+      <workItem from="1704967861862" duration="1956000" />
+      <workItem from="1704969853100" duration="9669000" />
+      <workItem from="1705006806599" duration="10000" />
+      <workItem from="1705102496833" duration="23000" />
+      <workItem from="1705256598085" duration="597000" />
+      <workItem from="1705330847107" duration="11018000" />
+      <workItem from="1705398926639" duration="10429000" />
+      <workItem from="1705443908248" duration="127000" />
+      <workItem from="1705484657910" duration="8808000" />
+      <workItem from="1705530709056" duration="631000" />
+      <workItem from="1705593012690" duration="6431000" />
+      <workItem from="1705615367042" duration="132000" />
+      <workItem from="1705821550323" duration="13107000" />
+      <workItem from="1705935941257" duration="11000" />
+      <workItem from="1705935966688" duration="6745000" />
+      <workItem from="1706050480882" duration="2283000" />
+      <workItem from="1706133531279" duration="148000" />
+      <workItem from="1706133693985" duration="6746000" />
+      <workItem from="1706641470936" duration="822000" />
+      <workItem from="1706714813018" duration="3020000" />
+      <workItem from="1706717855050" duration="3735000" />
+      <workItem from="1707142760291" duration="16000" />
+      <workItem from="1707151130358" duration="49000" />
+      <workItem from="1707152575357" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="For">
       <created>1681861594077</created>
@@ -251,7 +281,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699743028098</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1704926559310</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704926559310</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1705615386867</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1705615386867</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1705866851306</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705866851306</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
