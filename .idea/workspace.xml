@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc19114c-7a3d-42c9-8e84-208056f3f100" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/FindAnElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/RightElementBigger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/SumIndexAndErrorHard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/SumNeigboringElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/Task10from113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/Task11from113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/Task12from113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/two_dimensional_arrays/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/two_dimensional_arrays/SumOfArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,20 +79,7 @@
       <recent name="C:\ProjectJava\Stepik_progres\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindAnElement">
-    <configuration name="EnteringNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.EnteringNumber" />
-      <module name="Stepik_progres" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.SimpleTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MultiplicationTable">
     <configuration name="FindAnElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.FindAnElement" />
       <module name="Stepik_progres" />
@@ -105,8 +93,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.SumIndex" />
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.two_dimensional_arrays.MultiplicationTable" />
+      <module name="Stepik_progres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.two_dimensional_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task10from113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.Task10from113" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumIndexAndErrorHard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.SumIndexAndErrorHard" />
+    <configuration name="Task11from113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.Task11from113" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNeigboringElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.SumNeigboringElements" />
+    <configuration name="Task12from113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.Task12from113" />
       <module name="Stepik_progres" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Task12from113" />
+        <item itemvalue="Application.Task11from113" />
+        <item itemvalue="Application.Task10from113" />
         <item itemvalue="Application.FindAnElement" />
-        <item itemvalue="Application.SumNeigboringElements" />
-        <item itemvalue="Application.SumIndexAndErrorHard" />
-        <item itemvalue="Application.SumIndex" />
-        <item itemvalue="Application.EnteringNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +203,8 @@
       <workItem from="1707752358083" duration="31000" />
       <workItem from="1707753234028" duration="38000" />
       <workItem from="1707753941406" duration="270000" />
+      <workItem from="1711309021915" duration="744000" />
+      <workItem from="1712755456218" duration="16683000" />
     </task>
     <task id="LOCAL-00001" summary="For">
       <created>1681861594077</created>
@@ -315,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707170058962</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1711309039099</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711309039099</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
