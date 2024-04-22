@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc19114c-7a3d-42c9-8e84-208056f3f100" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/Task10from113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/Task11from113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SimpleTask/Task12from113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/two_dimensional_arrays/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/two_dimensional_arrays/SumOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/two_dimensional_arrays/Task2For114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/two_dimensional_arrays/Task3DiagonalFor114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/two_dimensional_arrays/Task4IsSymmetryFor114.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +61,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/ProjectJava/JavaJunior&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/spring-boot-lesson-7&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -79,20 +77,7 @@
       <recent name="C:\ProjectJava\Stepik_progres\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
-    <configuration name="FindAnElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SimpleTask.FindAnElement" />
-      <module name="Stepik_progres" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.SimpleTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task3DiagonalFor114">
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.two_dimensional_arrays.MultiplicationTable" />
       <module name="Stepik_progres" />
@@ -145,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task3DiagonalFor114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.two_dimensional_arrays.Task3DiagonalFor114" />
+      <module name="Stepik_progres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.two_dimensional_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3DiagonalFor114" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.Task12from113" />
         <item itemvalue="Application.Task11from113" />
         <item itemvalue="Application.Task10from113" />
-        <item itemvalue="Application.FindAnElement" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +203,10 @@
       <workItem from="1707753941406" duration="270000" />
       <workItem from="1711309021915" duration="744000" />
       <workItem from="1712755456218" duration="16683000" />
+      <workItem from="1713366674826" duration="2021000" />
+      <workItem from="1713454917260" duration="34000" />
+      <workItem from="1713467817619" duration="2076000" />
+      <workItem from="1713817056720" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="For">
       <created>1681861594077</created>
@@ -326,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711309039099</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'github/master'">
+      <created>1712908988961</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712908988962</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
